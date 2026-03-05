@@ -10,10 +10,16 @@
 - 🔀 Recently made my [first OSS contribution](https://github.com/long2ice/fastapi-limiter/pull/79) to `fastapi-limiter`
 - 🪖 NCC Lance Corporal — NCC "C" Certificate holder
 
+### Featured Projects 🚀
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [VIT QA Bot](https://github.com/AdityaMedidala/vit-qa-bot) | Document-grounded RAG system with hallucination control | FastAPI · pgvector · Next.js |
+| [Swipe Invoice](https://github.com/AdityaMedidala/swipe-invoice-app) | AI invoice extraction at 90%+ accuracy | React · FastAPI · Gemini |
+| [Winigify](https://github.com/AdityaMedidala/winigify) | Financial PDF Q&A with 4 CrewAI agents | FastAPI · Celery · Redis |
+| [Wallet Service](https://github.com/AdityaMedidala/wallet-service) | Double-entry bookkeeping with concurrency handling | Python · PostgreSQL |
+
 ### Connect with me 📬
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMedidala)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-medidala-907b08271)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:djaditya200%40gmail.com)
 
-### GitHub Stats 📊
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaMedidala&show_icons=true&theme=dark&hide_border=true&count_private=true)
+📧 djaditya200@gmail.com
