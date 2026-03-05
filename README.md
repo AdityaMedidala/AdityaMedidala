@@ -16,7 +16,7 @@
 | [VIT QA Bot](https://github.com/AdityaMedidala/vit-qa-bot) | Document-grounded RAG system with hallucination control | FastAPI · pgvector · Next.js |
 | [Swipe Invoice](https://github.com/AdityaMedidala/swipe-invoice-app) | AI invoice extraction at 90%+ accuracy | React · FastAPI · Gemini |
 | [Winigify](https://github.com/AdityaMedidala/winigify) | Financial PDF Q&A with 4 CrewAI agents | FastAPI · Celery · Redis |
-| [Wallet Service](https://github.com/AdityaMedidala/wallet-service) | Double-entry bookkeeping with concurrency handling | Python · PostgreSQL |
+| [Wallet Service](https://github.com/AdityaMedidala/dinoventures) | Double-entry bookkeeping with concurrency handling | Python · PostgreSQL |
 
 ### Connect with me 📬
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMedidala)
