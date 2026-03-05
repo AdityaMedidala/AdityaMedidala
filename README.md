@@ -1,42 +1,18 @@
-# Hi, I'm Aditya 👋
+## 👋 Hi, I'm Aditya
 
-I’m a final-year IT undergraduate building production-grade backend systems and AI-powered applications.
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java,fastapi,nodejs,react,nextjs,postgres,redis,mongodb,docker,aws,gcp,vercel)](https://skillicons.dev)
 
-I enjoy working close to the metal — APIs, data pipelines, retrieval systems, and things that break under load.
+### About me
+- 🎓 Final-year IT undergrad @ [VIT Vellore](https://vit.ac.in/)
+- 🔨 Building backend systems and AI-powered applications
+- 🌱 Learning distributed systems, vector databases, and open-source workflows
+- 🔀 Recently made my [first OSS contribution](https://github.com/long2ice/fastapi-limiter/pull/79) to `fastapi-limiter`
+- 🪖 NCC Lance Corporal — NCC "C" Certificate holder
 
----
+### Connect with me 📬
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/AdityaMedidala)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aditya-medidala-907b08271)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:djaditya200@gmail.com)
 
-## 🔭 What I’m building
-- Document-grounded RAG systems with strict hallucination control
-- AI-powered data extraction pipelines (OCR + LLMs)
-- Full-stack applications with FastAPI, React, and PostgreSQL
-- Backend systems focused on correctness, performance, and clarity
-
----
-
-## 🌱 What I’m learning
-- Distributed systems fundamentals
-- Vector databases and retrieval optimization
-- Backend architecture & API design at scale
-- Open-source workflows and large codebases
-
----
-
-## 🤝 What I want to contribute to
-- Open-source backend frameworks and tooling
-- Developer infrastructure & AI systems
-- Documentation, bug fixes, and performance improvements
-- Projects that value correctness, simplicity, and long-term maintainability
-
----
-
-## 🛠 Tech I work with
-**Languages:** Python, TypeScript, Java, JavaScript  
-**Backend:** FastAPI, Node.js, PostgreSQL, pgvector, Redis  
-**Frontend:** React, Next.js, Vite  
-**AI/ML:** RAG, OpenAI, Gemini, Document AI, LangChain  
-**Infra:** Docker, AWS, GCP, Vercel, Railway
-
----
-
-📫 Reach me at: djaditya200@gmail.com
+![Most Contributed](https://api.githubtrends.io/user/svg/AdityaMedidala/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)
