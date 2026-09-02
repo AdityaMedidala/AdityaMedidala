@@ -1,12 +1,13 @@
 ## 👋 Hi, I'm Aditya
 
-Final-year IT undergrad who likes building things that ship — backend systems with real concurrency guarantees, AI pipelines with real eval numbers, and a macOS app that got picked up by the press.
+Software Engineer building AI-native systems — backend infra with real concurrency guarantees, agentic pipelines with real eval numbers, and a macOS app that got picked up by the press.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,ts,js,swift,fastapi,nodejs,react,nextjs,postgres,redis,docker,aws,gcp)](https://skillicons.dev)
 
 ### About me
-- 🎓 Final-year IT undergrad @ [VIT Vellore](https://vit.ac.in/) (graduating 2026)
+- 🎓 B.Tech IT, [VIT Vellore](https://vit.ac.in/) (2026)
+- 💼 Software Engineer @ RevInsight, building AI-native decision intelligence systems for enterprise go-to-market
 - 🔨 Building backend systems and AI-powered applications — FastAPI, LangGraph, RAG, multi-agent pipelines
 - 🚀 Shipped [**CircleSearch**](https://github.com/AdityaMedidala/CircleSearch), a macOS AI screen-analysis app featured by French Mac publication *VVMac*
 - 🌱 Into distributed systems, vector databases, concurrency, and LLM evaluation
